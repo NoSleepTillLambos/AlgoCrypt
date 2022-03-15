@@ -5,7 +5,8 @@ p {
   color: white;
   font-family: "Quicksand";
 }
-h1 {
+h1,
+h3 {
   padding: 10px;
   color: orange;
 }
