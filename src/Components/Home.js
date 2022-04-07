@@ -1,20 +1,23 @@
 import React from 'react'
-import Carousel from './Carousel'
+
 
 function Home() {
   return (
-    <div >
+    <>
 
       <div className='info-home'>
         <h1>ALGO CRYPT</h1>
         <h4>The home of all things crypto!</h4>
+        
+      </div>
+      <div className='info-num'>
 
-
-        <Carousel/>
+      </div>
+      <div className='stats-home'>
 
       </div>
       
-    </div>
+    </>
   )
 }
 
