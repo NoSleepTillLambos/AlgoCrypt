@@ -50,6 +50,7 @@ const Comparison = () => {
 }
 
 var options = {
+  
   scales: {
       y: {
           beginAtZero: true
@@ -62,23 +63,27 @@ var options = {
   return (
     <>
       
-      <div className='bar-chart'>
+      <div className='chart-con'>
       
-        <div className='bar'>
-        <Bar 
-          data = {data}
-          options = {options}
+        <div className='bar-chart'>
+        <Bar data = {data} options = {options}
         />
         </div>
-    
+
+
+        
+
+        
       </div>
 
-      <div className='bubble-chart'>
-
-      </div>
+      
 
       <div className='doughnut'>
-        
+
+
+        <div className='bubble-chart'>
+
+        </div>
       </div>
       
     </>

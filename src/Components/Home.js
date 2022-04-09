@@ -1,7 +1,36 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
+import axios from 'axios'
+import "../CSS/Home.css"
+import {Link} from 'react-router-dom';
+
+
+
+
+
 
 
 function Home() {
+
+  const [state, setState] = useState({
+    marketC: ''
+  })
+
+
+  useEffect( () => {
+    fetchData();
+  }, []);
+
+  const fetchData = async () => {
+    const res = await axios.get('https://api.coinlore.net/api/global/');
+    console.log(res.data[0].total_mcap)
+    setState({
+      ...state, 
+      marketC: Math.round(res.data[0].total_mcap) 
+    });
+  }
+
+
+
   return (
     <>
 
@@ -11,10 +40,11 @@ function Home() {
         
       </div>
       <div className='info-num'>
-
+        <h3>Total Crypto Market cap (Billions):</h3>
+        <h4>$ {state.marketC}</h4>
       </div>
       <div className='stats-home'>
-
+        <Link to={{  pathname: "https://icons8.com/illustrations/author/eEbrZFlkyZbD" }} target="_blank" ><img src='./btc1.png' id='btc-img'></img></Link>
       </div>
       
     </>
