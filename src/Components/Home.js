@@ -5,11 +5,9 @@ import {Link} from 'react-router-dom';
 
 
 
-
-
-
-
 function Home() {
+
+  
 
   const [state, setState] = useState({
     marketC: ''
@@ -28,8 +26,10 @@ function Home() {
       marketC: Math.round(res.data[0].total_mcap) 
     });
   }
+  
+  
 
-
+  
 
   return (
     <>
@@ -37,6 +37,9 @@ function Home() {
       <div className='info-home'>
         <h1>ALGO CRYPT</h1>
         <h4>The home of all things crypto!</h4>
+        <p id='description'>At algo crypt we offer everything one may need for their crypto journey from price 
+        analysis, to tracking and general crypto updates. </p>
+        
         
       </div>
       <div className='info-num'>
@@ -44,6 +47,7 @@ function Home() {
         <h4>$ {state.marketC}</h4>
       </div>
       <div className='stats-home'>
+        <h3>Hover for more!</h3>
         <Link to={{  pathname: "https://icons8.com/illustrations/author/eEbrZFlkyZbD" }} target="_blank" ><img src='./btc1.png' id='btc-img'></img></Link>
       </div>
       

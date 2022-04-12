@@ -5,6 +5,10 @@ p {
   color: white;
   font-family: "Quicksand";
 }
+h2 {
+  color: black;
+  margin-top: 10px;
+}
 h1 {
   color: orange;
 }
@@ -22,6 +26,8 @@ h4 {
   height: 100vh;
   background-color: #2b2b2b;
   float: left;
+  z-index: 2;
+  position: fixed;
 }
 
 ul {
@@ -56,7 +62,7 @@ li a:hover {
   background-color: #2b2b2b;
   float: left;
   text-align: center;
-  margin-left: 50px;
+  margin-left: 300px;
   box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
@@ -94,4 +100,8 @@ li a:hover {
   box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
+}
+.coinlore-priceticker-widget {
+  position: fixed;
+  top: 0;
 }

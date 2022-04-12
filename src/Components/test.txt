@@ -3,8 +3,8 @@ import 'chart.js/auto';
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js';
 import {useState, useRef, useEffect} from 'react';
 import axios from "axios";
-import { Line } from "react-chartjs-2";
-import "../CSS/Time.css"
+import { Pie } from "react-chartjs-2";
+import TableItem from './TableItem'
 
 ChartJS.register(ArcElement, Tooltip, Legend);
 
@@ -20,6 +20,8 @@ const DynamicChart = () => {
     const [showMissions, setShowMissions] = useState();
 
     const value = useRef();
+ 
+    const value = useRef();
 
   useEffect(() => {
     axios.get('https://api.coinlore.net/api/tickers/?start=0&limit=5')
@@ -30,12 +32,8 @@ const DynamicChart = () => {
   })
 
 
-  function getVal(){
-    let grabVal = value.current.value;
-    if(grabVal === eth){
-      
-    }
-  }
+    let failedItems  = faildata.map((item) => <TableItem key={item.id} name={item.name} launchNum={item.num} video={item.watch_url} img={item.image_url} />);
+    let successItems  = successdata.map((item) => <TableItem key={item.id} name={item.name} launchNum={item.num} video={item.watch_url} img={item.image_url} />)
     
 
     return (

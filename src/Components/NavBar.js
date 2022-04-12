@@ -4,6 +4,7 @@ import Comparison from './Comparison';
 import Timeline from './Timeline';
 import {Link} from 'react-router-dom';
 
+
 function NavBar() {
   return (
     <nav className='NavBar'>

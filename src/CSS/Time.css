@@ -1,0 +1,16 @@
+.timeline-con {
+  margin: auto;
+  padding-top: 50px;
+  margin-left: 350px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
+  width: 800px;
+  height: 500px;
+}
+.timeline-chart {
+  margin: auto;
+  margin-bottom: 40px;
+}

@@ -5,10 +5,10 @@
   height: 90vh;
   width: 40%;
   float: left;
-  margin-left: 40px;
+  margin-left: 300px;
   background-color: white;
   border-radius: 5px;
-  margin-top: 30px;
+  margin-top: 40px;
   box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
@@ -23,7 +23,7 @@
   height: 90vh;
   background-color: white;
   border-radius: 5px;
-  margin-top: 30px;
+  margin-top: 40px;
   box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 9px 15px 53px -15px rgba(0, 0, 0, 0.75);
@@ -36,4 +36,11 @@
   width: 80%;
   margin-left: 51px;
   margin-top: 10px;
+}
+.doughnut-con {
+  padding-top: 40px;
+}
+.polar-area {
+  padding-top: 30px;
+  margin-bottom: -10;
 }

@@ -4,10 +4,16 @@ import NavBar from './Components/NavBar';
 import Home from './Components/Home';
 import Comparison from './Components/Comparison';
 import Timeline from './Components/Timeline';
+import { makeStyles } from '@material-ui/core/styles';
+
 
 
 // setting up routing
 function App() {
+
+  
+
+  
   return (
 
     <Router>
