@@ -34,7 +34,7 @@ const Comparison = () => {
   axios.get(' https://api.coinlore.net/api/tickers/?start=0&limit=5')
   .then(answer => {
     for (const dataObj of answer.data.data){
-      percentChange.push(parseInt(dataObj.percent_change_7d))
+      percentChange.push(parseInt(dataObj.price_usd))
       
     }
 
@@ -119,7 +119,7 @@ const info = {
       
 
       <div className='doughnut'>
-        <h2>Percentage change</h2>
+      
         <div className='doughnut-con'>
           
           <Doughnut data={info} />

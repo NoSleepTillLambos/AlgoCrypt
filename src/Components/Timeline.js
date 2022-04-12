@@ -11,45 +11,38 @@ ChartJS.register(ArcElement, Tooltip, Legend);
 
 const DynamicChart = () => {
 
-    const [data,setData] = useState([]);
-    const [eth, setEth] = useState([]);
-    const [btc, setBtc] = useState([]);
-    const [bnb, setBnbn] = useState([]);
-    const [usdt, setUsdt] = useState([]);
+  const [data,setData] = useState([]);
+    
+  const eth = [];
+  const btc = [];
+  const bnb = [];
 
-    const [showMissions, setShowMissions] = useState();
-
-    const value = useRef();
 
   useEffect(() => {
     axios.get('https://api.coinlore.net/api/tickers/?start=0&limit=5')
     .then((res)=> {
-      console.log(res)
-      
+      for(const dataObj of res.data.data)
+      eth.push(parseInt(dataObj.tsupply))
     })
-  })
+    
+  },[])
 
 
-  function getVal(){
-    let grabVal = value.current.value;
-    if(grabVal === eth){
-      
-    }
-  }
+  
     
 
     return (
     <div className='timeline-con'>
-      <h2>Historical movement</h2>
+      <h2>TOTAL SUPPLY</h2>
       <div className='line-chart'>
         
         <Line
             data={{
-                labels: ['BTC', 'ETH', 'USDT', 'BNB', 'LUNA', 'DOT'],
+                labels: ['BTC', 'ETH', 'USDT', 'BNB', 'LUNA'],
                 datasets: [{
                     tension: 0.5,
                     label: 'Top 5 by market cap',
-                    data: [12, 19, 3, 5, 2, 3],
+                    data: eth,
                     fill: true,
                     backgroundColor: [
                         'rgba(255, 99, 132, 0.2)',
@@ -57,7 +50,7 @@ const DynamicChart = () => {
                         'rgba(255, 206, 86, 0.2)',
                         'rgba(75, 192, 192, 0.2)',
                         'rgba(153, 102, 255, 0.2)',
-                        'rgba(255, 159, 64, 0.2)'
+                        
                     ],
                     borderColor: [
                         'rgba(255, 99, 132, 1)',
@@ -77,13 +70,6 @@ const DynamicChart = () => {
             options={{maintainAspectRatio: false,}}
             />
       </div>
-      <select>
-        <option>BITCOIN</option>
-        <option>ETHEREUM</option>
-        <option>TETHER</option>
-        <option>BINANCE COIN</option>
-        <option>POLKADOT</option>
-      </select>
       
     </div>
   )

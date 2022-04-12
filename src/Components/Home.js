@@ -39,7 +39,8 @@ function Home() {
         <h4>The home of all things crypto!</h4>
         <p id='description'>At algo crypt we offer everything one may need for their crypto journey from price 
         analysis, to tracking and general crypto updates. </p>
-        
+        <p>(Donate below)</p>
+        <img src='./btcQR.png' alt='bitcoin QR code' id='qr'></img>
         
       </div>
       <div className='info-num'>
