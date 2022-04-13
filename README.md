@@ -14,7 +14,7 @@
 <p align="center">
 
   <a href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project">
-    <img href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project/blob/master/public/unnamed.jpg" alt="Logo" width="140" height="140">
+    <img href="public/unnamed.jpg" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">Algo crypt</h3>
@@ -66,7 +66,7 @@
 
 ### Project Description
 
-A nice introduction to this amazing project of mine.
+Algo crypt is a crpyto currency web application designed to provide users with the ability to analyse various price points and historical data about the top 5 by market cap.
 
 ### Built With
 
@@ -121,17 +121,11 @@ Here are a couple of ways to clone this repo:
 
 ![image2](src/Assets/Liam_Wedge_21100218_HomePage.png)
 
-### All The Latest Space X Data!
-
-
-
-![image3][image3]
-
 ### Feature 2
 
 Description of Feature
 
-![image4][image4]
+![image4][src/Assets/4926360.png]
 
 ### Feature 3
 
@@ -155,13 +149,13 @@ The `Conceptual Process` is the set of actions, activities and research that was
 
 ### Custom UI
 
-![image8][image8]
+The custom UI I made use of was provided by Coinponent, the UI sits at the top of my web application and provides the user with market movement and updates surronding eh bitcoin ecosystem 
 
 <!-- DEVELOPMENT PROCESS -->
 
 ## Development Process
 
-The `Development Process` is the technical implementations and functionality done in the frontend and backend of the application.
+Users are able to cycle through various currencies on the comparison and timeline page and display data about the various objects.
 
 ### Implementation Process
 
