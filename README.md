@@ -208,9 +208,9 @@ Going above and beyond the brief
 
 ### Mockups
 
-![image9][src/Assets/4926360.png]
+![image9][https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project/blob/master/src/Assets/4926360.png]
 <br>
-![image10][src/Assets/Liam_Wedge_21100218_Mockup.png]
+![image10][https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project/blob/master/src/Assets/Liam_Wedge_21100218_Mockup.png]
 
 <!-- VIDEO DEMONSTRATION -->
 
