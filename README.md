@@ -123,15 +123,12 @@ Here are a couple of ways to clone this repo:
 
 ### Feature 2
 
-Description of Feature
+The features of this page include a dougnut chart, a bar graph displaying the market cap of the crpytocurrency's in question and finally a polar area graph displaying the total market caps
 
 ![image4][src/Assets/4926360.png]
 
 ### Feature 3
 
-Description of Feature
-
-![image5][image5]
 
 <!-- CONCEPT PROCESS -->
 <!-- Briefly explain your concept ideation process -->
@@ -139,13 +136,10 @@ Description of Feature
 
 ## Concept Process
 
-The `Conceptual Process` is the set of actions, activities and research that was done when starting this project.
+Before beginnig to write the code in my project i went over to pinterest and went through some of the best looking websites regarding my chosen data set and with regards to meeeting the briefs requirements.
 
 ### Ideation
 
-![image5][image5]
-<br>
-![image6][image6]
 
 ### Custom UI
 
@@ -155,7 +149,7 @@ The custom UI I made use of was provided by Coinponent, the UI sits at the top o
 
 ## Development Process
 
-Users are able to cycle through various currencies on the comparison and timeline page and display data about the various objects.
+Users are able to cycle through various currencies on the comparison and timeline page and display data about the various object properties all with help of the Coinlore API.
 
 ### Implementation Process
 
@@ -208,9 +202,9 @@ Going above and beyond the brief
 
 ### Mockups
 
-![image9][https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project/blob/master/src/Assets/4926360.png]
+![image2](src/Assets/Liam_Wedge_21100218_Mockup.png)
 <br>
-![image10][https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project/blob/master/src/Assets/Liam_Wedge_21100218_Mockup.png]
+![image2](src/Assets/Liam_Wedge_21100218_492630.png)
 
 <!-- VIDEO DEMONSTRATION -->
 
@@ -238,7 +232,7 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 
 ## Contact
 
-- **Your Name & Surname** - [email@address](21100218@virtualwindow.co.za)
+- **Liam Wedge** - [email@address](21100218@virtualwindow.co.za)
 - **Project Link** - https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project
 
 <!-- ACKNOWLEDGEMENTS -->
