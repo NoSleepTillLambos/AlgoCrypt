@@ -14,11 +14,11 @@
 <p align="center">
 
   <a href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project">
-<<<<<<< HEAD
+
     <img href="public/unnamed.jpg" alt="Logo" width="140" height="140">
-=======
+
     <img src="public/unnamed.jpg" alt="Logo" width="140" height="140">
->>>>>>> d9b9e73abaaa45a73b0ec9fa40d7e8bb111fa374
+
   </a>
   
   <h3 align="center">Algo crypt</h3>
