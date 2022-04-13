@@ -17,27 +17,27 @@
     <img src="./btcQR.png" alt="Logo" width="140" height="140">
   </a>
   
-  <h3 align="center">OpenSpace</h3>
+  <h3 align="center">Algo crypt</h3>
 
   <p align="center">
-    A react project using the CoinLore API to explore the abilities of charts js  <br>
+    A react project using the CoinLore API to explore the abilities of and data visualization of charts js  <br>
     
     
    <br />
    <br />
    <a href="path/to/demonstration/video">View Demo</a>
     ·
-    <a href="https://github.com/MikeMaynard14/termoneexample/issues">Report Bug</a>
+    <a href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MikeMaynard14/termoneexample/issues">Request Feature</a>
+    
 </p>
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
-- [About the Project](#about-the-project)
+- [About the Project](The project is centred around the cryptocurrency ecosystem and was run and developed through the use of REACT JS and was )
   - [Project Description](#project-description)
-  - [Built With](#built-with)
+  - [Built With](React JS, Material UI, Coinlore(API), CoinPonent)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [How to install](#how-to-install)
