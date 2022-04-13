@@ -20,8 +20,8 @@
   <h3 align="center">OpenSpace</h3>
 
   <p align="center">
-    A react project using the Space X Api to demonstrate data visualization using charts js  <br>
-    <i>This However is a template file for DV200 Students!</i> 
+    A react project using the CoinLore API to explore the abilities of charts js  <br>
+    
     
    <br />
    <br />
@@ -74,8 +74,8 @@ A nice introduction to this amazing project of mine.
 ### Built With
 
 - [React](https://reactjs.org/)
-- [Technology Name](path/to/technology/website)
-- [Technology Name](path/to/technology/website)
+- [CoinLore](https://www.coinlore.com/cryptocurrency-data-api)
+- [Material UI V4](https://v4.mui.com/)
 
 <!-- GETTING STARTED -->
 <!-- Make sure to add appropriate information about what prerequesite technologies the user would need and also the steps to install your project on their own mashines -->
@@ -95,13 +95,13 @@ Ensure that you have the latest version of [NPM](https://www.npmjs.com/) install
 Here are a couple of ways to clone this repo:
 
 1.  GitHub Desktop </br>
-    Enter `https://github.com/MikeMaynard14/termoneexample.git` into the URL field and press the `Clone` button.
+    Enter `https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project` into the URL field and press the `Clone` button.
 
 2.  Clone Repository </br>
     Run the following in the command-line to clone the project:
 
     ```sh
-    git clone https://github.com/MikeMaynard14/termoneexample.git
+    git clone https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project
     ```
 
         Open `Software` and select `File | Open...` from the menu. Select cloned directory and press `Open` button
@@ -113,7 +113,7 @@ Here are a couple of ways to clone this repo:
     npm install
     ```
 
-4.  An API key is not required
+4.  An API key is not required for this installation
 
 <!-- FEATURES AND FUNCTIONALITY-->
 <!-- You can add the links to all of your imagery at the bottom of the file as references -->
@@ -156,10 +156,6 @@ The `Conceptual Process` is the set of actions, activities and research that was
 <br>
 ![image6][image6]
 
-### Wireframes
-
-![image7][image7]
-
 ### Custom UI
 
 ![image8][image8]
@@ -177,22 +173,24 @@ The `Development Process` is the technical implementations and functionality don
 
 - Utilized React `Charts.JS` dependency for Data visualization
 - Implemented Routing with `React-Router v6`.
-- API End Point: link Here
-- `Plugin` for this.
+- API End Point: https://api.coinlore.net/api/global/
+- Ticker and plugins were achieved with the help of: https://coinponent.com/crypto-converter-widget
 - ETC.
 
 #### Highlights
 
 <!-- stipulated the highlight you experienced with the project -->
 
-- What was good about this project, what did you learn.
+- The highlights for me were becoming familiar with JSX and the other react syntax, it proved to be challenging but extremely
+  worthwhile when everything came together.
 - What aspects did you enjoy.
 
 #### Challenges
 
 <!-- stipulated the challenges you faced with the project and why you think you faced it or how you think you'll solve it (if not solved) -->
 
-- Bugs.
+- The biggest challenge for me was the dynamic population of data into the Charts, however I learnt quickly and was able to overcome
+  the issues.
 - Bugs.
 
 #### Above And Beyond
@@ -201,15 +199,17 @@ What aspects of this final build contribute to the `Above And Beyond` Component 
 
 <!-- what did you learn outside of the classroom and implement into your project-->
 
-- Name of Skill Explored.
+- I explored the use of Material UI as a way to implement a cleaner and more visually appealing front end .
+- Through the use of Coinponent I implemented a coin ticker bar.
 - Explain your understanding and execution of above skill.
 
 ### Future Implementation
 
 <!-- stipulate functionality and improvements that can be implemented in the future. -->
 
-- Future 1.
-- Future 2.
+- In the future i would like to get my timeline page fully functioning as i was not quite able to complete it due to time restrictions
+- I would like to actually implement a way for users to access the blockchain (I'm aiming high) through my website and possibly even
+  make transactions, who knows :).
 
 <!-- MOCKUPS -->
 
@@ -225,17 +225,17 @@ What aspects of this final build contribute to the `Above And Beyond` Component 
 
 ### Video Demonstration
 
-To see a run through of the application, click below:
+To see a run through of the application, please click below:
 
 [View Demonstration](path/to/video/demonstration)
 
-See the [open issues](https://github.com/MikeMaynard14/termoneexample/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project/issues) for a list of proposed features (and known issues).
 
 <!-- AUTHORS -->
 
 ## Authors
 
-- **Your Name & Surname** - [MikeMaynard14](https://github.com/MikeMaynard14)
+- **Your Name & Surname** - [LiamWedge](https://github.com/NoSleepTillLambos)
 
 <!-- LICENSE -->
 
@@ -247,8 +247,8 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 
 ## Contact
 
-- **Your Name & Surname** - [email@address](mailto:email@address) - [@instagram_handle](https://www.instagram.com/instagram_handle/)
-- **Project Link** - https://github.com/MikeMaynard14/termoneexample
+- **Your Name & Surname** - [email@address](21100218@virtualwindow.co.za)
+- **Project Link** - https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -256,7 +256,7 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 
 <!-- all resources that you used and Acknowledgements here -->
 
-- [Resource Name](path/to/resource)
+- [Resource Name](https://www.coinlore.com/cryptocurrency-data-api)
 - [Resource Name](path/to/resource)
 - [Resource Name](path/to/resource)
 - [Resource Name](path/to/resource)
