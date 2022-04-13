@@ -14,7 +14,7 @@
 <p align="center">
 
   <a href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project">
-    <img src="./btcQR.png" alt="Logo" width="140" height="140">
+    <img src="./unnamed.jpg" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">Algo crypt</h3>
@@ -25,7 +25,7 @@
     
    <br />
    <br />
-   <a href="path/to/demonstration/video">View Demo</a>
+   <a href="https://drive.google.com/drive/folders/1IiMC4ZpDRhs8Q5RuAk9rlZmzaHfeihNa">View Demo</a>
     ·
     <a href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project/issues">Report Bug</a>
     ·
@@ -35,8 +35,8 @@
 
 ## Table of Contents
 
-- [About the Project](The project is centred around the cryptocurrency ecosystem and was run and developed through the use of REACT JS and was )
-  - [Project Description](#project-description)
+- [About the Project](The project is centred around the cryptocurrency ecosystem and was run and developed through the use of REACT JS and was)
+  - [Project Description](The application allows users to explore charts and prices from the various top market cap currencies)
   - [Built With](React JS, Material UI, Coinlore(API), CoinPonent)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -47,21 +47,18 @@
   - [Wireframes](#wireframes)
   - [Custom UI](#user-flow)
 - [Development Process](#development-process)
-  - [Implementation Process](#implementation-process)
-    - [Highlights](#highlights)
-    - [Challenges](#challenges)
+  - [Implementation Process](#implementation-process) - [Highlights](The highlight was seeing all the plans come together with regards to the Ui and finally getting the API to work with the charts) - [Challenges](My greatest challenge this term was getting familiar with React syntax, it proved to be a real pain in the beginning.
+    Axios and getting data from the api
+    Time management proved to be an issue towards the end and something i need to work on in the following weeks and months to maximise my productivity
+    )
   - [Future Implementation](#peer-reviews)
 - [Final Outcome](#final-outcome)
   - [Mockups](#mockups)
   - [Video Demonstration](#video-demonstration)
 - [Conclusion](#conclusion)
 - [License](#license)
-- [Contact](#contact)
+- [Contact](21100218@virtualwindow.co.za)
 - [Acknowledgements](#acknowledgements)
-
-<!--PROJECT DESCRIPTION-->
-
-## About the Project
 
 <!-- header image of project -->
 
