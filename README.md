@@ -119,11 +119,11 @@ Here are a couple of ways to clone this repo:
 
 <!-- note how you can use your gitHub link. Just make a path to your assets folder -->
 
-![image2](https://raw.githubusercontent.com/MikeMaynard14/termoneexample/main/src/assets/mockup.jpg)
+![image2](src/Assets/Liam_Wedge_21100218_HomePage.png)
 
 ### All The Latest Space X Data!
 
-Usding the Space X API, we have collected and collated all the most relevant Space X data into once seemless react experience!
+
 
 ![image3][image3]
 
