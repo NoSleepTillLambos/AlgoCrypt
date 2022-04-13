@@ -48,7 +48,7 @@ function Home() {
         <h4>$ {state.marketC}</h4>
       </div>
       <div className='stats-home'>
-        <h3>Hover for more!</h3>
+        
         <Link to={{  pathname: "https://icons8.com/illustrations/author/eEbrZFlkyZbD" }} target="_blank" ><img src='./btc1.png' id='btc-img'></img></Link>
       </div>
       

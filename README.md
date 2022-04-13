@@ -14,7 +14,7 @@
 <p align="center">
 
   <a href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project">
-    <img href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project/blob/master/public/unnamed.jpg" alt="Logo" width="140" height="140">
+    <img href="public/unnamed.jpg" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">Algo crypt</h3>
