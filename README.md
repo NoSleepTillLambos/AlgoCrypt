@@ -14,7 +14,11 @@
 <p align="center">
 
   <a href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project">
+<<<<<<< HEAD
     <img href="public/unnamed.jpg" alt="Logo" width="140" height="140">
+=======
+    <img src="public/unnamed.jpg" alt="Logo" width="140" height="140">
+>>>>>>> d9b9e73abaaa45a73b0ec9fa40d7e8bb111fa374
   </a>
   
   <h3 align="center">Algo crypt</h3>
@@ -66,7 +70,7 @@
 
 ### Project Description
 
-A nice introduction to this amazing project of mine.
+Algo crypt is a crpyto currency web application designed to provide users with the ability to analyse various price points and historical data about the top 5 by market cap.
 
 ### Built With
 
@@ -119,25 +123,16 @@ Here are a couple of ways to clone this repo:
 
 <!-- note how you can use your gitHub link. Just make a path to your assets folder -->
 
-![image2](https://raw.githubusercontent.com/MikeMaynard14/termoneexample/main/src/assets/mockup.jpg)
-
-### All The Latest Space X Data!
-
-Usding the Space X API, we have collected and collated all the most relevant Space X data into once seemless react experience!
-
-![image3][image3]
+![image2](src/Assets/Liam_Wedge_21100218_HomePage.png)
 
 ### Feature 2
 
-Description of Feature
+The features of this page include a dougnut chart, a bar graph displaying the market cap of the crpytocurrency's in question and finally a polar area graph displaying the total market caps
 
-![image4][image4]
+![image4][src/Assets/4926360.png]
 
 ### Feature 3
 
-Description of Feature
-
-![image5][image5]
 
 <!-- CONCEPT PROCESS -->
 <!-- Briefly explain your concept ideation process -->
@@ -145,23 +140,20 @@ Description of Feature
 
 ## Concept Process
 
-The `Conceptual Process` is the set of actions, activities and research that was done when starting this project.
+Before beginnig to write the code in my project i went over to pinterest and went through some of the best looking websites regarding my chosen data set and with regards to meeeting the briefs requirements.
 
 ### Ideation
 
-![image5][image5]
-<br>
-![image6][image6]
 
 ### Custom UI
 
-![image8][image8]
+The custom UI I made use of was provided by Coinponent, the UI sits at the top of my web application and provides the user with market movement and updates surronding eh bitcoin ecosystem 
 
 <!-- DEVELOPMENT PROCESS -->
 
 ## Development Process
 
-The `Development Process` is the technical implementations and functionality done in the frontend and backend of the application.
+Users are able to cycle through various currencies on the comparison and timeline page and display data about the various object properties all with help of the Coinlore API.
 
 ### Implementation Process
 
@@ -214,9 +206,9 @@ Going above and beyond the brief
 
 ### Mockups
 
-![image9][https://github.com/nosleeptilllambos/21100218_liamwedge_dv_project/blob/master/src/assets/liam_wedge_21100218_homepage.png]
+![image2](src/Assets/Liam_Wedge_21100218_Mockup.png)
 <br>
-![image10][https://github.com/nosleeptilllambos/21100218_liamwedge_dv_project/blob/master/src/assets/4926360.png]
+![image2](src/Assets/4926360.png)
 
 <!-- VIDEO DEMONSTRATION -->
 
@@ -244,7 +236,7 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 
 ## Contact
 
-- **Your Name & Surname** - [email@address](21100218@virtualwindow.co.za)
+- **Liam Wedge** - [21100218@virtualwindow.co.za]()
 - **Project Link** - https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project
 
 <!-- ACKNOWLEDGEMENTS -->
