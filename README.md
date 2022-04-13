@@ -14,7 +14,7 @@
 <p align="center">
 
   <a href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project">
-    <img href="public/unnamed.jpg" alt="Logo" width="140" height="140">
+    <img src="public/unnamed.jpg" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">Algo crypt</h3>
@@ -208,9 +208,9 @@ Going above and beyond the brief
 
 ### Mockups
 
-![image9][https://github.com/nosleeptilllambos/21100218_liamwedge_dv_project/blob/master/src/assets/liam_wedge_21100218_homepage.png]
+![image9][src/Assets/4926360.png]
 <br>
-![image10][https://github.com/nosleeptilllambos/21100218_liamwedge_dv_project/blob/master/src/assets/4926360.png]
+![image10][src/Assets/Liam_Wedge_21100218_Mockup.png]
 
 <!-- VIDEO DEMONSTRATION -->
 
