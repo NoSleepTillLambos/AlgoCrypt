@@ -204,7 +204,7 @@ Going above and beyond the brief
 
 ![image2](src/Assets/Liam_Wedge_21100218_Mockup.png)
 <br>
-![image2](src/Assets/492630.png)
+![image2](src/Assets/4926360.png)
 
 <!-- VIDEO DEMONSTRATION -->
 
@@ -232,7 +232,7 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 
 ## Contact
 
-- **Liam Wedge** - [email@address](21100218@virtualwindow.co.za)
+- **Liam Wedge** - [21100218@virtualwindow.co.za]()
 - **Project Link** - https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project
 
 <!-- ACKNOWLEDGEMENTS -->
