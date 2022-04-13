@@ -14,7 +14,7 @@
 <p align="center">
 
   <a href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project">
-    <img src="./unnamed.jpg" alt="Logo" width="140" height="140">
+    <img href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project/blob/master/public/unnamed.jpg" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">Algo crypt</h3>
@@ -178,9 +178,9 @@ The `Development Process` is the technical implementations and functionality don
 
 <!-- stipulated the highlight you experienced with the project -->
 
-- The highlights for me were becoming familiar with JSX and the other react syntax, it proved to be challenging but extremely
+- The highlight for me was getting familiar with JSX and the other react syntax, it proved to be challenging but extremely
   worthwhile when everything came together.
-- What aspects did you enjoy.
+- I really enjoyed working with Chart js even though it proved to be an issue throughout, i really enjoyed the data visualization aspect.
 
 #### Challenges
 
@@ -188,11 +188,11 @@ The `Development Process` is the technical implementations and functionality don
 
 - The biggest challenge for me was the dynamic population of data into the Charts, however I learnt quickly and was able to overcome
   the issues.
-- Bugs.
+- There were a large amount of bugs that kept me awake most nights, mainly due to the syntax in React.
 
 #### Above And Beyond
 
-What aspects of this final build contribute to the `Above And Beyond` Component of your brief?
+Going above and beyond the brief
 
 <!-- what did you learn outside of the classroom and implement into your project-->
 
@@ -214,9 +214,9 @@ What aspects of this final build contribute to the `Above And Beyond` Component 
 
 ### Mockups
 
-![image9][image9]
+![image9][https://github.com/nosleeptilllambos/21100218_liamwedge_dv_project/blob/master/src/assets/liam_wedge_21100218_homepage.png]
 <br>
-![image10][image10]
+![image10][https://github.com/nosleeptilllambos/21100218_liamwedge_dv_project/blob/master/src/assets/4926360.png]
 
 <!-- VIDEO DEMONSTRATION -->
 
@@ -224,7 +224,7 @@ What aspects of this final build contribute to the `Above And Beyond` Component 
 
 To see a run through of the application, please click below:
 
-[View Demonstration](path/to/video/demonstration)
+[View Demonstration](https://drive.google.com/drive/folders/1IiMC4ZpDRhs8Q5RuAk9rlZmzaHfeihNa)
 
 See the [open issues](https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project/issues) for a list of proposed features (and known issues).
 
@@ -253,8 +253,8 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 
 <!-- all resources that you used and Acknowledgements here -->
 
-- [Resource Name](https://www.coinlore.com/cryptocurrency-data-api)
-- [Resource Name](path/to/resource)
-- [Resource Name](path/to/resource)
-- [Resource Name](path/to/resource)
-- [Resource Name](path/to/resource)
+- [Coinlore API](https://www.coinlore.com/cryptocurrency-data-api)
+- [Coinponent](https://coinponent.com/crypto-converter-widget)
+- [React](https://reactjs.org/)
+- [Material UI](https://v4.mui.com/)
+- [Charts JS](https://www.chartjs.org/)
