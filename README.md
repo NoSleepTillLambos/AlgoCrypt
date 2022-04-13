@@ -204,7 +204,7 @@ Going above and beyond the brief
 
 ![image2](src/Assets/Liam_Wedge_21100218_Mockup.png)
 <br>
-![image2](src/Assets/Liam_Wedge_21100218_492630.png)
+![image2](src/Assets/492630.png)
 
 <!-- VIDEO DEMONSTRATION -->
 
