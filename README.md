@@ -133,7 +133,7 @@ The features of this page include a doughnut chart, a bar graph displaying the m
 
 Pintrest was my main source of inspiration, as a first time react user i brought in different aspects from a variety of sources and shaped them into something that would work well with an API. Something that users could engage with and latch onto.
 
-### Ideation
+### Road Map and conceptual process
 
 ![image4](src/Assets/wireframe1.png)
 ![image5](src/Assets/wireframe2.png)
