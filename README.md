@@ -25,7 +25,7 @@
     
    <br />
    <br />
-   <a href="https://drive.google.com/drive/folders/1IiMC4ZpDRhs8Q5RuAk9rlZmzaHfeihNa">View Demo</a>
+   <a href="https://drive.google.com/drive/folders/1bHFGq7nIGPdDqJGrCNNCiSqTUyPk-h7F">View Demo</a>
     ·
     <a href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project/issues">Report Bug</a>
     ·
@@ -35,9 +35,8 @@
 
 ## Table of Contents
 
-- [About the Project](The project is centred around the cryptocurrency ecosystem and was run and developed through the use of REACT JS and was)
-  - [Project Description](The application allows users to explore charts and prices from the various top market cap currencies)
-  - [Built With](React JS, Material UI, Coinlore(API), CoinPonent)
+- The project is centred around the cryptocurrency ecosystem and was run and developed through the use of REACT JS and was
+  - The application allows users to explore charts and prices from the various top market cap currencies
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [How to install](#how-to-install)
@@ -47,10 +46,7 @@
   - [WireFrames](#wireframes)
   - [Custom UI](#user-flow)
 - [Development Process](#development-process)
-  - [Implementation Process](#implementation-process) - [Highlights](The highlight was seeing all the plans come together with regards to the Ui and finally getting the API to work with the charts) - [Challenges](My greatest challenge this term was getting familiar with React syntax, it proved to be a real pain in the beginning.
-    Axios and getting data from the api
-    Time management proved to be an issue towards the end and something i need to work on in the following weeks and months to maximise my productivity
-    )
+  - [Implementation Process](#implementation-process)
   - [Future Implementation](#peer-reviews)
 - [Final Outcome](#final-outcome)
   - [Mockups](#mockups)
@@ -205,7 +201,7 @@ See the [open issues](https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV
 
 ## Authors
 
-- **Your Name & Surname** - [LiamWedge](https://github.com/NoSleepTillLambos)
+[LiamWedge](https://github.com/NoSleepTillLambos)
 
 <!-- LICENSE -->
 
