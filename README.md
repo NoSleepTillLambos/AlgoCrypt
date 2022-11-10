@@ -13,7 +13,7 @@
 </br>
 <p align="center">
 
-  <a href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project">
+  <a href="https://github.com/NoSleepTillLambos/AlgoCrypt">
     <img src="public/unnamed.jpg" alt="Logo" width="140" height="140">
   </a>
   
@@ -27,7 +27,7 @@
    <br />
    <a href="https://drive.google.com/drive/folders/1bHFGq7nIGPdDqJGrCNNCiSqTUyPk-h7F">View Demo</a>
     ·
-    <a href="https://github.com/NoSleepTillLambos/21100218_LiamWedge_DV_project/issues">Report Bug</a>
+    <a href="https://github.com/NoSleepTillLambos/AlgoCrypt">Report Bug</a>
     ·
     
 </p>
@@ -53,16 +53,16 @@
   - [Video Demonstration](#video-demonstration)
 - [Conclusion](#conclusion)
 - [License](#license)
-- [Contact](21100218@virtualwindow.co.za)
+- [Contact](liamwedge00@gmail.com)
 - [Acknowledgements](#acknowledgements)
 
 <!-- header image of project -->
 
-![image1](src/assets/chartPage.png)
+![image1](src/Assets/chartPage.png)
 
 ### Project Description
 
-Algo crypt is a crypto currency web application designed to provide users with the ability to analyze various price points and historical data about the top 5 by market cap.
+Algo crypt is a crypto currency web application designed to provide users with the ability to analyze various price points and historical data about the top 5 currencies by market cap, namely Bitcoin, Ethereum, BNB, USDT etc
 
 ### Built With
 
@@ -141,7 +141,7 @@ Pintrest was my main source of inspiration, as a first time react user i brought
 
 ### Custom UI
 
-The custom UI I made use of was provided by CoinPonent, the UI banner sits at the top of my web application and provides the user with market movement and updates surrounding the bitcoin ecosystem
+The custom UI I made use of was provided by CoinPonent, the UI banner sits at the top of my web application and provides the user with market movement and updates surrounding the Crpyto ecosystem
 
 <!-- DEVELOPMENT PROCESS -->
 
@@ -185,7 +185,7 @@ Going above and beyond the brief
 
 ![image2](src/Assets/Liam_Wedge_21100218_Mockup.png)
 <br>
-![image2](src/Assets/4926360.png)
+![image3](src/Assets/4926360.png)
 
 <!-- VIDEO DEMONSTRATION -->
 
