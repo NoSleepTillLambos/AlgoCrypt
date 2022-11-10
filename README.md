@@ -44,7 +44,7 @@
 - [Features and Functionality](#features-and-functionality)
 - [Concept Process](#concept-process)
   - [Ideation](#ideation)
-  - [Wireframes](#wireframes)
+  - [WireFrames](#wireframes)
   - [Custom UI](#user-flow)
 - [Development Process](#development-process)
   - [Implementation Process](#implementation-process) - [Highlights](The highlight was seeing all the plans come together with regards to the Ui and finally getting the API to work with the charts) - [Challenges](My greatest challenge this term was getting familiar with React syntax, it proved to be a real pain in the beginning.
@@ -62,11 +62,11 @@
 
 <!-- header image of project -->
 
-![image1][image1]
+![image1](src/assets/chartPage.png)
 
 ### Project Description
 
-Algo crypt is a crpyto currency web application designed to provide users with the ability to analyse various price points and historical data about the top 5 by market cap.
+Algo crypt is a crypto currency web application designed to provide users with the ability to analyze various price points and historical data about the top 5 by market cap.
 
 ### Built With
 
@@ -75,7 +75,7 @@ Algo crypt is a crpyto currency web application designed to provide users with t
 - [Material UI V4](https://v4.mui.com/)
 
 <!-- GETTING STARTED -->
-<!-- Make sure to add appropriate information about what prerequesite technologies the user would need and also the steps to install your project on their own mashines -->
+<!-- Make sure to add appropriate information about what prerequsite technologies the user would need and also the steps to install your project on their own machines -->
 
 ## Getting Started
 
@@ -123,12 +123,11 @@ Here are a couple of ways to clone this repo:
 
 ### Feature 2
 
-The features of this page include a dougnut chart, a bar graph displaying the market cap of the crpytocurrency's in question and finally a polar area graph displaying the total market caps
+The features of this page include a doughnut chart, a bar graph displaying the market cap of the crypto Currency's in question and finally a polar area graph displaying the total market caps
 
-![image4][src/Assets/4926360.png]
+![image4][src/assets/4926360.png]
 
 ### Feature 3
-
 
 <!-- CONCEPT PROCESS -->
 <!-- Briefly explain your concept ideation process -->
@@ -136,14 +135,17 @@ The features of this page include a dougnut chart, a bar graph displaying the ma
 
 ## Concept Process
 
-Before beginnig to write the code in my project i went over to pinterest and went through some of the best looking websites regarding my chosen data set and with regards to meeeting the briefs requirements.
+Pintrest was my main source of inspiration, as a first time react user i brought in different aspects from a variety of sources and shaped them into something that would work well with an API. Something that users could engage with and latch onto.
 
 ### Ideation
 
+![image4][src/assets/wireframe1.png]
+![image8][src/assets/wireframe2.png]
+![image9][src/assets/wireframe3.png]
 
 ### Custom UI
 
-The custom UI I made use of was provided by Coinponent, the UI sits at the top of my web application and provides the user with market movement and updates surronding eh bitcoin ecosystem 
+The custom UI I made use of was provided by CoinPonent, the UI banner sits at the top of my web application and provides the user with market movement and updates surrounding the bitcoin ecosystem
 
 <!-- DEVELOPMENT PROCESS -->
 
@@ -160,23 +162,6 @@ Users are able to cycle through various currencies on the comparison and timelin
 - Implemented Routing with `React-Router v6`.
 - API End Point: https://api.coinlore.net/api/global/
 - Ticker and plugins were achieved with the help of: https://coinponent.com/crypto-converter-widget
-- ETC.
-
-#### Highlights
-
-<!-- stipulated the highlight you experienced with the project -->
-
-- The highlight for me was getting familiar with JSX and the other react syntax, it proved to be challenging but extremely
-  worthwhile when everything came together.
-- I really enjoyed working with Chart js even though it proved to be an issue throughout, i really enjoyed the data visualization aspect.
-
-#### Challenges
-
-<!-- stipulated the challenges you faced with the project and why you think you faced it or how you think you'll solve it (if not solved) -->
-
-- The biggest challenge for me was the dynamic population of data into the Charts, however I learnt quickly and was able to overcome
-  the issues.
-- There were a large amount of bugs that kept me awake most nights, mainly due to the syntax in React.
 
 #### Above And Beyond
 
@@ -185,7 +170,7 @@ Going above and beyond the brief
 <!-- what did you learn outside of the classroom and implement into your project-->
 
 - I explored the use of Material UI as a way to implement a cleaner and more visually appealing front end .
-- Through the use of Coinponent I implemented a coin ticker bar.
+- Through the use of CoinPonent I implemented a coin ticker bar.
 - Explain your understanding and execution of above skill.
 
 ### Future Implementation
@@ -194,7 +179,7 @@ Going above and beyond the brief
 
 - In the future i would like to get my timeline page fully functioning as i was not quite able to complete it due to time restrictions
 - I would like to actually implement a way for users to access the blockchain (I'm aiming high) through my website and possibly even
-  make transactions, who knows :).
+  make transactions, who knows!.
 
 <!-- MOCKUPS -->
 
