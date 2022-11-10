@@ -136,8 +136,8 @@ Pintrest was my main source of inspiration, as a first time react user i brought
 ### Ideation
 
 ![image4][src/assets/wireframe1.png]
-![image8][src/assets/wireframe2.png]
-![image9][src/assets/wireframe3.png]
+![image5][src/assets/wireframe2.png]
+![image6][src/assets/wireframe3.png]
 
 ### Custom UI
 
